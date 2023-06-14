@@ -9,7 +9,7 @@
 |                    | Sergiño Dest      |  AC Milan                 | DEFENDER   |
 |                    | Chris Richards    |  Crystal Palace           | DEFENDER   |
 | Jim                | Antonee Robinson  |  Fulham                   | DEFENDER   |
-| Jim                | Miles Robinson    |  Atlanta United           | DEFENDER   |
+| Abe                | Miles Robinson    |  Atlanta United           | DEFENDER   |
 |                    | Joe Scally        |  Borussia Mönchengladbach | DEFENDER   |
 |                    | Auston Trusty     |  Birmingham City          | DEFENDER   |
 | Chad               | Walker Zimmerman  |  Nashville SC             | DEFENDER   |
