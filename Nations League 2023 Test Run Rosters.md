@@ -16,7 +16,7 @@
 |                    | Johnny Cardoso    |  Internacional            | MIDFIELDER |
 |                    | Luca de la Torre  |  Celta de Vigo            | MIDFIELDER |
 | David              | Weston McKennie   |  Leeds United             | MIDFIELDER |
-|                    | Yunus Musah       |  Valencia                 | MIDFIELDER |
+| Abe                | Yunus Musah       |  Valencia                 | MIDFIELDER |
 | Abe                | Gio Reyna         |  Borussia Dortmund        | MIDFIELDER |
 |                    | Alan Soñora       |  FC Juárez                | MIDFIELDER |
 |                    | Brenden Aaronson  |  Leeds United             | FORWARD    |
