@@ -15,7 +15,7 @@
 |                    | Walker Zimmerman  |  Nashville SC             | DEFENDER   |
 |                    | Johnny Cardoso    |  Internacional            | MIDFIELDER |
 |                    | Luca de la Torre  |  Celta de Vigo            | MIDFIELDER |
-|                    | Weston McKennie   |  Leeds United             | MIDFIELDER |
+| David              | Weston McKennie   |  Leeds United             | MIDFIELDER |
 |                    | Yunus Musah       |  Valencia                 | MIDFIELDER |
 | Abe                | Gio Reyna         |  Borussia Dortmund        | MIDFIELDER |
 |                    | Alan Soñora       |  FC Juárez                | MIDFIELDER |
