@@ -7,7 +7,7 @@
 |                    | Sean Johnson      |  Toronto FC               | GOALKEEPER |
 | David              | Matt Turner       |  Arsenal                  | GOALKEEPER |
 | Jim                | Sergiño Dest      |  AC Milan                 | DEFENDER   |
-|                    | Chris Richards    |  Crystal Palace           | DEFENDER   |
+| David              | Chris Richards    |  Crystal Palace           | DEFENDER   |
 | Jim                | Antonee Robinson  |  Fulham                   | DEFENDER   |
 | Abe                | Miles Robinson    |  Atlanta United           | DEFENDER   |
 |                    | Joe Scally        |  Borussia Mönchengladbach | DEFENDER   |
