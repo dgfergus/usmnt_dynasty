@@ -2,7 +2,7 @@
 | ------------------ | ----------------- | ------------------------- | ---------- |
 | Manager            | Player            | Club                      | USMNT      |
 | ------------------ | ----------------- | ------------------------- | ---------- |
-| Chad               | Drake Callender   |  Inter Miami CF           | GOALKEEPER |
+|                    | Drake Callender   |  Inter Miami CF           | GOALKEEPER |
 |                    | Josh Cohen        |  Maccabi Haifa            | GOALKEEPER |
 |                    | Sean Johnson      |  Toronto FC               | GOALKEEPER |
 |                    | Matt Turner       |  Arsenal                  | GOALKEEPER |
