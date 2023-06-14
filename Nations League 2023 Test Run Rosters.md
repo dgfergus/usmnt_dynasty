@@ -17,7 +17,7 @@
 |                    | Luca de la Torre  |  Celta de Vigo            | MIDFIELDER |
 |                    | Weston McKennie   |  Leeds United             | MIDFIELDER |
 |                    | Yunus Musah       |  Valencia                 | MIDFIELDER |
-|                    | Gio Reyna         |  Borussia Dortmund        | MIDFIELDER |
+| Abe                | Gio Reyna         |  Borussia Dortmund        | MIDFIELDER |
 |                    | Alan Soñora       |  FC Juárez                | MIDFIELDER |
 |                    | Brenden Aaronson  |  Leeds United             | FORWARD    |
 |                    | Folarin Balogun   |  Stade Reims              | FORWARD    |
