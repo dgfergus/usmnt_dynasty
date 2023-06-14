@@ -12,7 +12,7 @@
 |                    | Miles Robinson    |  Atlanta United           | DEFENDER   |
 |                    | Joe Scally        |  Borussia Mönchengladbach | DEFENDER   |
 |                    | Auston Trusty     |  Birmingham City          | DEFENDER   |
-|                    | Walker Zimmerman  |  Nashville SC             | DEFENDER   |
+| Chad               | Walker Zimmerman  |  Nashville SC             | DEFENDER   |
 |                    | Johnny Cardoso    |  Internacional            | MIDFIELDER |
 |                    | Luca de la Torre  |  Celta de Vigo            | MIDFIELDER |
 | David              | Weston McKennie   |  Leeds United             | MIDFIELDER |
@@ -24,5 +24,5 @@
 |                    | Taylor Booth      |  Utrecht                  | FORWARD    |
 |                    | Ricardo Pepi      |  Groningen                | FORWARD    |
 | Chad               | Christian Pulisic |  Chelsea                  | FORWARD    |
-|                    | Tim Weah          |  Lille                    | FORWARD    |
+| Chad               | Tim Weah          |  Lille                    | FORWARD    |
 |                    | Alex Zendejas     |  Club América             | FORWARD    |
