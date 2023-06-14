@@ -5,7 +5,7 @@
 |                    | Drake Callender   |  Inter Miami CF           | GOALKEEPER |
 |                    | Josh Cohen        |  Maccabi Haifa            | GOALKEEPER |
 |                    | Sean Johnson      |  Toronto FC               | GOALKEEPER |
-|                    | Matt Turner       |  Arsenal                  | GOALKEEPER |
+| David              | Matt Turner       |  Arsenal                  | GOALKEEPER |
 |                    | Sergiño Dest      |  AC Milan                 | DEFENDER   |
 |                    | Chris Richards    |  Crystal Palace           | DEFENDER   |
 |                    | Antonee Robinson  |  Fulham                   | DEFENDER   |
@@ -20,7 +20,7 @@
 | Abe                | Gio Reyna         |  Borussia Dortmund        | MIDFIELDER |
 |                    | Alan Soñora       |  FC Juárez                | MIDFIELDER |
 |                    | Brenden Aaronson  |  Leeds United             | FORWARD    |
-|                    | Folarin Balogun   |  Stade Reims              | FORWARD    |
+| Jim                | Folarin Balogun   |  Stade Reims              | FORWARD    |
 |                    | Taylor Booth      |  Utrecht                  | FORWARD    |
 |                    | Ricardo Pepi      |  Groningen                | FORWARD    |
 | Chad               | Christian Pulisic |  Chelsea                  | FORWARD    |
