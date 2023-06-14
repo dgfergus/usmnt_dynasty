@@ -6,7 +6,7 @@
 |                    | Josh Cohen        |  Maccabi Haifa            | GOALKEEPER |
 |                    | Sean Johnson      |  Toronto FC               | GOALKEEPER |
 | David              | Matt Turner       |  Arsenal                  | GOALKEEPER |
-|                    | Sergiño Dest      |  AC Milan                 | DEFENDER   |
+| Jim                | Sergiño Dest      |  AC Milan                 | DEFENDER   |
 |                    | Chris Richards    |  Crystal Palace           | DEFENDER   |
 | Jim                | Antonee Robinson  |  Fulham                   | DEFENDER   |
 | Abe                | Miles Robinson    |  Atlanta United           | DEFENDER   |
@@ -25,4 +25,4 @@
 |                    | Ricardo Pepi      |  Groningen                | FORWARD    |
 | Chad               | Christian Pulisic |  Chelsea                  | FORWARD    |
 | Chad               | Tim Weah          |  Lille                    | FORWARD    |
-|                    | Alex Zendejas     |  Club América             | FORWARD    |
+| David              | Alex Zendejas     |  Club América             | FORWARD    |
