@@ -8,7 +8,7 @@
 | David              | Matt Turner       |  Arsenal                  | GOALKEEPER |
 |                    | Sergiño Dest      |  AC Milan                 | DEFENDER   |
 |                    | Chris Richards    |  Crystal Palace           | DEFENDER   |
-|                    | Antonee Robinson  |  Fulham                   | DEFENDER   |
+| Jim                | Antonee Robinson  |  Fulham                   | DEFENDER   |
 |                    | Miles Robinson    |  Atlanta United           | DEFENDER   |
 |                    | Joe Scally        |  Borussia Mönchengladbach | DEFENDER   |
 |                    | Auston Trusty     |  Birmingham City          | DEFENDER   |
