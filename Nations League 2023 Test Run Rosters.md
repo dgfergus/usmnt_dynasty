@@ -23,6 +23,6 @@
 |                    | Folarin Balogun   |  Stade Reims              | FORWARD    |
 |                    | Taylor Booth      |  Utrecht                  | FORWARD    |
 |                    | Ricardo Pepi      |  Groningen                | FORWARD    |
-|                    | Christian Pulisic |  Chelsea                  | FORWARD    |
+| Chad               | Christian Pulisic |  Chelsea                  | FORWARD    |
 |                    | Tim Weah          |  Lille                    | FORWARD    |
 |                    | Alex Zendejas     |  Club América             | FORWARD    |
