@@ -14,7 +14,7 @@
 |                    | Auston Trusty     |  Birmingham City          | DEFENDER   |
 | Chad               | Walker Zimmerman  |  Nashville SC             | DEFENDER   |
 |                    | Johnny Cardoso    |  Internacional            | MIDFIELDER |
-|                    | Luca de la Torre  |  Celta de Vigo            | MIDFIELDER |
+| Abe                   | Luca de la Torre  |  Celta de Vigo            | MIDFIELDER |
 | David              | Weston McKennie   |  Leeds United             | MIDFIELDER |
 | Abe                | Yunus Musah       |  Valencia                 | MIDFIELDER |
 | Abe                | Gio Reyna         |  Borussia Dortmund        | MIDFIELDER |
