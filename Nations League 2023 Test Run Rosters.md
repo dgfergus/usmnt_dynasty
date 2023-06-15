@@ -8,7 +8,7 @@
 | David              | Chris Richards    |  Crystal Palace           | DEFENDER   |
 | Jim                | Antonee Robinson  |  Fulham                   | DEFENDER   |
 | Abe                | Miles Robinson    |  Atlanta United           | DEFENDER   |
-|                    | Joe Scally        |  Borussia Mönchengladbach | DEFENDER   |
+| Abe                | Joe Scally        |  Borussia Mönchengladbach | DEFENDER   |
 | Chad               | Auston Trusty     |  Birmingham City          | DEFENDER   |
 | Chad               | Walker Zimmerman  |  Nashville SC             | DEFENDER   |
 |                    | Johnny Cardoso    |  Internacional            | MIDFIELDER |
