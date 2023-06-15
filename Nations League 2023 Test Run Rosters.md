@@ -22,7 +22,7 @@
 |                    | Brenden Aaronson  |  Leeds United             | FORWARD    |
 | Jim                | Folarin Balogun   |  Stade Reims              | FORWARD    |
 |                    | Taylor Booth      |  Utrecht                  | FORWARD    |
-|                    | Ricardo Pepi      |  Groningen                | FORWARD    |
+| Jim                | Ricardo Pepi      |  Groningen                | FORWARD    |
 | Chad               | Christian Pulisic |  Chelsea                  | FORWARD    |
 | Chad               | Tim Weah          |  Lille                    | FORWARD    |
 | David              | Alex Zendejas     |  Club América             | FORWARD    |
