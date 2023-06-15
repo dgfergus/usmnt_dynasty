@@ -1,8 +1,8 @@
 | Manager            | Player            | Club                      | USMNT      |
 | -------- | ----------------- | ------------------------- | ---------- |
-|                    | Drake Callender   |  Inter Miami CF           | GOALKEEPER |
-|                    | Josh Cohen        |  Maccabi Haifa            | GOALKEEPER |
-|                    | Sean Johnson      |  Toronto FC               | GOALKEEPER |
+| Chad               | Drake Callender   |  Inter Miami CF           | GOALKEEPER |
+| Jim                | Josh Cohen        |  Maccabi Haifa            | GOALKEEPER |
+| Abe                | Sean Johnson      |  Toronto FC               | GOALKEEPER |
 | David              | Matt Turner       |  Arsenal                  | GOALKEEPER |
 | Jim                | Sergiño Dest      |  AC Milan                 | DEFENDER   |
 | David              | Chris Richards    |  Crystal Palace           | DEFENDER   |
