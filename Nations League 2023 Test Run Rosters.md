@@ -11,15 +11,15 @@
 | Abe                | Joe Scally        |  Borussia Mönchengladbach | DEFENDER   |
 | Chad               | Auston Trusty     |  Birmingham City          | DEFENDER   |
 | Chad               | Walker Zimmerman  |  Nashville SC             | DEFENDER   |
-|                    | Johnny Cardoso    |  Internacional            | MIDFIELDER |
-| Abe                   | Luca de la Torre  |  Celta de Vigo            | MIDFIELDER |
+| Jim                | Johnny Cardoso    |  Internacional            | MIDFIELDER |
+| Abe                | Luca de la Torre  |  Celta de Vigo            | MIDFIELDER |
 | David              | Weston McKennie   |  Leeds United             | MIDFIELDER |
 | Abe                | Yunus Musah       |  Valencia                 | MIDFIELDER |
 | Abe                | Gio Reyna         |  Borussia Dortmund        | MIDFIELDER |
-|                    | Alan Soñora       |  FC Juárez                | MIDFIELDER |
+| David              | Alan Soñora       |  FC Juárez                | MIDFIELDER |
 | Chad               | Brenden Aaronson  |  Leeds United             | FORWARD    |
 | Jim                | Folarin Balogun   |  Stade Reims              | FORWARD    |
-|                    | Taylor Booth      |  Utrecht                  | FORWARD    |
+| David              | Taylor Booth      |  Utrecht                  | FORWARD    |
 | Jim                | Ricardo Pepi      |  Groningen                | FORWARD    |
 | Chad               | Christian Pulisic |  Chelsea                  | FORWARD    |
 | Chad               | Tim Weah          |  Lille                    | FORWARD    |
