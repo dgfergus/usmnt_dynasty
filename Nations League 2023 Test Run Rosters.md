@@ -10,7 +10,7 @@
 | David              | Chris Richards    |  Crystal Palace           | DEFENDER   |
 | Jim                | Antonee Robinson  |  Fulham                   | DEFENDER   |
 | Abe                | Miles Robinson    |  Atlanta United           | DEFENDER   |
-| Chad               | Joe Scally        |  Borussia Mönchengladbach | DEFENDER   |
+|                    | Joe Scally        |  Borussia Mönchengladbach | DEFENDER   |
 | Chad               | Auston Trusty     |  Birmingham City          | DEFENDER   |
 | Chad               | Walker Zimmerman  |  Nashville SC             | DEFENDER   |
 |                    | Johnny Cardoso    |  Internacional            | MIDFIELDER |
@@ -19,7 +19,7 @@
 | Abe                | Yunus Musah       |  Valencia                 | MIDFIELDER |
 | Abe                | Gio Reyna         |  Borussia Dortmund        | MIDFIELDER |
 |                    | Alan Soñora       |  FC Juárez                | MIDFIELDER |
-|                    | Brenden Aaronson  |  Leeds United             | FORWARD    |
+| Chad               | Brenden Aaronson  |  Leeds United             | FORWARD    |
 | Jim                | Folarin Balogun   |  Stade Reims              | FORWARD    |
 |                    | Taylor Booth      |  Utrecht                  | FORWARD    |
 | Jim                | Ricardo Pepi      |  Groningen                | FORWARD    |
